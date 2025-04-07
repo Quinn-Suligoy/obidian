@@ -1,0 +1,43 @@
+# Common Approaches to Film Studies
+- Historical
+	- How is the film a historical document?
+	- What can a movie from a specific era reveal about its context?
+- Cultural and Political
+	- Ideology of film
+	- "Slacker Culture" of Linklaters's indie films
+	- Erotic Thrillers of the 1980s
+- Industrial context
+	- Independent film vs Commercial cinema
+- Philosophical: Film as philosophy and mirror on the world
+	- Expand world, deepens our humanity
+	- Director/filmmaker-as-visionary
+	- Raises questions, provokes introspection and reflection
+- Film = clash of Art & Entertainment
+	- Active vs. passive viewer
+	- Audience expectations
+		- for Art/indie films
+		- for Blockbuster films
+# How to Analyze a Film
+- How does a film communicate its major themes using 5 key elements
+	- Mise-en-Scene
+	- Sound
+		- Diegetic vs Non-Diegetic
+	- Cinematography
+	- Editing
+	- Performance
+# Finding Meaning in Narrative Films: Themes
+- What is a *theme*?
+	- "the central, recurring idea or underlying topic in an artistic work"
+	- Abstract issues
+		- Inequality, greed, loyalty,... are given concrete form
+# The Orchestration of Detail: Motif
+- What is a *motif*?
+	- important details that are repeated and varied to create meaning and emphasize the film's themes
+	- Any narrative, visual, or sound element that is repeated, reflecting its significance to the story, characters, or themes
+- What is a *parallel*?
+	- two characters, events, or locations are compared through narrative elements
+- What is a *pattern*
+	- repeated details that create patterns
+- What is a *turning point*?
+	- important shift of some kind in character or situation
+	- signaled by camerawork, editing, sound, dialogue, action

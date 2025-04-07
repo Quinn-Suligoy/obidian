@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "a9606194b85ce814",
+    "type": "split",
+    "children": [
+      {
+        "id": "93a85848e9814834",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38990f61a4ec2282",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classes/TMATH300/Lectures/Lecture_1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lecture_1"
+            }
+          },
+          {
+            "id": "542129ef9d7a856e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classes/TMATH300/Lectures/Lecture_2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lecture_2"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d4e8ab85aa413df6",
+    "type": "split",
+    "children": [
+      {
+        "id": "22435ee2ac4a8b3e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65d4e6683b401fef",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1879d5ce566b5bea",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "89d960855a81b94c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "a35694d190f9ef75",
+    "type": "split",
+    "children": [
+      {
+        "id": "83642b7475ee2542",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9de2ab6bb1417fba",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Classes/TPHYS121/Lectures/Lecture_17.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Lecture_17"
+            }
+          },
+          {
+            "id": "f2226ad5d3093171",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Classes/TPHYS121/Lectures/Lecture_17.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Lecture_17"
+            }
+          },
+          {
+            "id": "418afabbff43845b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "287fc22d7ae5e459",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Classes/TPHYS121/Lectures/Lecture_17.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Lecture_17"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "templater-obsidian:Templater": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "542129ef9d7a856e",
+  "lastOpenFiles": [
+    "Classes/TMATH300/Lectures/Lecture_1.md",
+    "Classes/TMATH300/Lectures/Lecture_2.md",
+    "Classes/TFILM201/Film Notes/Rear Window.md",
+    "Classes/TFILM201/Lectures/Lecture_1.md",
+    "Classes/TFILM201/Film Notes",
+    "Classes/TFILM201/Lectures",
+    "Classes/TFILM201",
+    "Classes/TMATH390/Lectures/Lecture_13.md",
+    "Classes/TMATH300/Lectures",
+    "Classes/TMATH300",
+    "Classes/TMATH390/Lectures/Lecture_14.md",
+    "Classes/TMATH390/Lectures/Lecture_18.md",
+    "Classes/TMATH390/Lectures/Lecture_19.md",
+    "Classes/TMATH390/Lectures/Lecture_20.md",
+    "Classes/TMATH390/Lectures/Lecture_15.md",
+    "Classes/TMATH390/Lectures/Lecture_16.md",
+    "Classes/TMATH390/Lectures/Lecture_2.md",
+    "Classes/TMATH390/Lectures/Lecture_1.md",
+    "Classes/TMATH390/Lectures/Lecture_4.md",
+    "Classes/TMATH390/Lectures/Lecture_6.md",
+    "Classes/TMATH390/Lectures/Lecture_5.md",
+    "Classes/TMATH390/Lectures/Lecture_8.md",
+    "Classes/TMATH390/Lectures/Lecture_7.md",
+    "Classes/TMATH390/Lectures/Lecture_9.md",
+    "Classes/TMATH390/Lectures/Lecture_3.md",
+    "Classes/TSOCWF101/Lectures/Lecture_1.md",
+    "Classes/TSOCWF101/Lectures/Lecture_2.md",
+    "Classes/TBIOL110/Lectures/Lecture_3.md",
+    "Classes/TBIOL110/Lectures/Lecture_2.md",
+    "Classes/TBIOL110/Lectures/Lecture_1.md",
+    "DnD/Character_Sheets/Larid_Tahlza/Spells and Weapons.md",
+    "Classes/TMATH390/Lectures",
+    "Classes/TMATH390",
+    "Classes/TSOCWF101/Lectures",
+    "Classes/TSOCWF101",
+    "Classes/TBIOL110/Lectures"
+  ]
+}

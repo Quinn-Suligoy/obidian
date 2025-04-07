@@ -1,0 +1,41 @@
+
+| CP  | SP  | EP  | GP  | PP  |
+| :-: | :-: | :-: | :-: | :-: |
+|     |     |     | 70  |  1  |
+- 2 x Short sword
+- Explorer's Pack
+	- Bedroll
+	- Mess kit
+	- Tinderbox
+	- 10 x Torch
+	- 9 x Rations
+	- Waterskin
+- Leather Armor
+- 2 x Dagger
+- Thieves' Tools
+- Fine Clothes
+- Old Fine Clothes
+- Coral Silk Cloak
+- Cloak
+- Flame wand
+- Magic Protection Amulet
+- 2 x Healing Pot
+- Silver pen
+- Important Ledger
+- Ink
+- pearl necklace
+- Scroll (deep speech)
+- 2 vials of darkness
+- Note addressed to the overseer
+- map with some marks on it
+- key
+- Sun Glasses 
+- Fine Clothes
+- Silver Rapier
+- Undead Gun
+- Cloak of Elven Kind
+- Magic Pearl
+- Greater Healing Potion
+- Satchel with powder
+- Box with red rings
+- 2nd evil shard
