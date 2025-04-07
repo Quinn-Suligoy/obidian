@@ -10,3 +10,5 @@ $Z^c\in X$ is the set of all isosceles triangles, $Y\cap Z^c$ is the set of all 
 # 1.20
 Assume $g\circ f$  is injective and $f$ is not injective, meaning $f(a)=f(b)$ and $a\neq b$. This would mean that $g(f(a))=g(f(b))$ while $a\neq b$ making $g\circ f$ not injective. This contradiction means that if $g\circ f$ is injective then $f$ must be injective.
 Let $X = \{ 1,2 \}, Y=\{ a,b,c \}, Z=\{ 0,1 \}$.  And $f:X\to Y = \{ (1,a),(2,b) \}$ and $g:Y\to Z=\{ (a,0),(b,1),(c,0) \}$. This makes $f$ injective while $g$ not injective. However $g\circ f:X\to Z=\{ (1,0),(2,1) \}$ making $g\circ f$ injective.
+
+
