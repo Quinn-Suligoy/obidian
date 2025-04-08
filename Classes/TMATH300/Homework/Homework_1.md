@@ -1,5 +1,8 @@
 # 1.2
-
+I:
+Let $a\in(X\cup Y)^c$ , then $a \not\in X$ and $a \not\in Y$, so $a\in X^c\cap Y^c$. Let $a\in X^c\cap Y^c$, then $a\not\in X$ and $a\not\in Y$, so $a\in(X\cup Y)^c$
+II:
+Let $a\in(X\cap Y)^c$, then 
 # 1.15
 Let triangle $T\in X$ with sides $a$, $b$, and $c$, and side lengths $|a|=|b|>|c|$. Then $f(T)$ is equal to both $a$ and $b$. making $f$ not a function on set $X$. 
 Let triangle $T\in Y$ with legs $a$ and $b$, and hypotenuse $c$. because of right triangle properties, $c$ will always be the longest side length, meaning $f(T)=c$. Making $f$ a function on set $Y$
