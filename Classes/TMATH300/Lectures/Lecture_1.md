@@ -49,6 +49,3 @@ $$
 - $A\subset B$ means A is a *proper subset* of B
 	- If $x \in A$ then $x\in B$
 	- $A\neq B$ 
-$$
-
-$$

@@ -50,3 +50,7 @@ $$
 - A function is *bijective* if for each $b\in B$ there is exactly one $x \in A$ such that $f(x)=b$.
 	- Both injective and surjective
 	- Function has an inverse
+## Inverses
+- a *bijection* $f$ always has an *inverse* $f^-1$
+	- defined as $f^-1:B\to A$ such that for each $b\in B,f^-1(b)$ is the unique element $A$ such that $f(x)=b$.
+- Function has an inverse if and only if it is a bijection
