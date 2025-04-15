@@ -20,3 +20,4 @@
 	- $a\sim b$
 ## Equivalence Classes
 - Let $R$ be an equivalence relation on a set $X$. For all $x \in X$, we define the equivalence class of $x$ modulo $R$, or $[x]_{R}$, as $[x]_{R}=\{ y\in X|x\sim y \}$ 
+- For any $y\in[x]_{R}$, we call $y$ a *representative element* of $[x]_{R}$
