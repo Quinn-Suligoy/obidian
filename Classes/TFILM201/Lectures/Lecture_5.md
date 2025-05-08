@@ -1,0 +1,53 @@
+# Camera and Time
+- What is a *shot*?
+	- single uninterrupted series of exposed frames
+		- editing shots together produces a scene
+- What are *storyboards*
+	- Many directors use storyboards to plan out shots
+# Camera and Space
+- Directors use 3 variables to shape camera's relation to space
+	- Height
+		- low, mid, high
+	- Angle
+		- high, low, canted/Dutch, overhead
+	- Distance
+		- extreme close-up - part of the face
+		- close-up - just the face
+		- medium close-up - shoulders up
+		- medium shot - waist up (Hollywood shot)
+		- medium long - knees up
+		- full shot - feet and the head
+		- long shot - little further away
+		- extreme long shot - tiny figures
+		- establishing shot - shows environment, not always characters
+# Camera Movement
+- Horizontal and Vertical camera movements when affixed on a tri-pod include:
+	- Pan
+	- Swish Pan
+		- quicker pan
+	- Tilt
+- Movements in 3d (not on a tri-pod)
+	- Tracking/dolly Shots
+	- Crane Shots
+	- Aerial Shots
+	- Handheld Shots
+	- Steadicam Shots
+# Lenses and the Perception of Depth
+- Lenses have differing *focal lengths* which give rise to different visual properties
+- Common types include:
+	- normal 
+		- similar to human eye
+	- wide-angle
+		- shorter focal length
+		- stretches space
+		- creates deep focus
+	- telephoto
+		- compresses space
+		- creates shallow focus
+- Depth of Field
+	- Shallow Focus
+		- blurry background
+	- Deep Focus
+		- Everything is in focus
+- Filter, Diffusers, Color
+	- Filters absorb some wavelength of light
