@@ -1,0 +1,84 @@
+# Film Authorship and the Auteur
+- What is an *Auteur*
+	- Auteur theory holds that director is primary creative force behind film
+	- repeated use of individual signature characteristics that distinguish film
+- Powerful force in Hollywood industry
+	- Economic force - Advertise author
+## 3 Criteria of Auteurs
+- 1 Be technically competent
+	- Play active role in all parts of film making process
+- 2 Have specific signatures
+	- Way film looks and moves should have relationship to way director thinks/feels
+	- Personal visual treatment of material
+- 3 Exhibit personality, interior meaning, and tendencies
+	- Tied to directors background
+	- Emotional experiences embedded in film
+# Alfred Hitchcock (1899-1980)
+- Trademarks
+	- "Master of Suspense"
+	- Genres: Gothic Melodrama, Thriller, Horror, Film Noir
+	- One of most influential directors in history
+	- "Pure Cinema" of silent era - carried to sound films
+		- Showing vs Telling
+		- Use of off-screen space
+	- Savvy Marketer
+		- Blurred lines between art and entertainment
+		- Knew how to make money making films
+		- Marketed movie along with own image
+- Hitchcockian Elements
+	- Voyeurism
+		- Politics of seeing
+		- People see what the want to see
+	- Modern Life
+		- Modernity as progress and as nightmares
+		- Class hierarchies and shifting gender norms/roles
+		- Traditional vs modern woman
+	- "Cool Blondes"
+	- Everyday Joes and amateur heroes
+	- Ambiguity of human nature
+		- Crime and murder
+- The MacGuffin
+	- Object of desire that is necessary to the plot/motivation, but of little importance to overall narrative
+# Wes Anderson (1969-)
+- Andersonian Elements
+	- Literary and theatrical motifs - meta-storytelling
+		- Artistic and bookish characters
+		- chapter like structure
+		- performance within a performance
+		- same phycological effect as a dream within a dream
+		- Expresses characters feelings, foreshadows plot points, characters are detail oriented
+	- Genre: whimsical satirical dark comedies, coming of age stories
+		- His own genres
+	- Brechtian Distanciation
+		- Opposite of method acting
+		- Deadpan, dry delivery of dialogue
+	- Distinctive color palettes
+	- 1960s and 1970s settings
+	- Framing and Cinematography
+		- Symmetrical use of the frame
+		- Internal frames
+		- use of deep space
+	- Bird's-eye shots
+		- Features props linked to characters
+	- Characters clothes reveal inner life
+	- Flawed characters
+		- child-adults
+		- adult-children
+		- broken families
+	- Children
+		- Act as foil for understanding adult ineptitude and inadequacy
+		- sense of wonder, playfulness, and immaturity is shifted to adults
+# German Expressionism (1910s-1920s)
+- Artistic movement and reaction against WWI
+	- Paintings, theater, novels, film expressed the aftermath of war as world gone mad
+	- Expressionism is representation of reality distorted for sake of conveying inner vision
+		- transforms reality rather than imitating
+	- Stylistic attributes
+		- Chiaroscuro lighting
+		- clash of shape/tone
+		- extreme/odd angles
+		- diagonal lines
+		- distortion
+		- asymmetry
+		- doubling and use of mirrors
+	- 
