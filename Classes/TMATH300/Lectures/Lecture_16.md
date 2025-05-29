@@ -30,4 +30,4 @@
 - Ex) Prove that the sequence $a_{n}=\frac{1}{n}$ converges to 0
 	- Let $\epsilon>0$. Then choose $N\in \mathbb{N}$ s.t. $N>\frac{1}{\epsilon}$, then $\forall n>N$, we know that $\frac{1}{n}< \frac{1}{N}< \epsilon$. Thus, since $\frac{1}{n}$ is always positive, we have that $(|a_{n}|<\epsilon)$ $\forall n>N$ and so $a_{n}\to 0$ as $n\to \infty$
 # The Bolzano-Weierstrass Theorem
-- *Theorem 6.8.* Let $[b,c]$ be a closed bounded interval of real numbers and $s=\langle a_{n}|n\in \mathbb{N} \rangle$ be a sequence of real numbers such that $(\forall n\in \mathbb{N})a_{n}\in[b,c]$. Then $\langle a_{n} \rangle$ has a convergent subsequence with limit in $[b,c]$
+- *Theorem 6.8.* Let $[b,c]$ be a closed bounded interval of real numbers and $s=\langle a_{n}|n\in \mathbb{N} \rangle$ be a sequence of real numbers such that $(\forall n\in \mathbb{N})a_{n}\in[b,c]$. Then $\langle a_{n} \rangle$ has a convergent subsequence with limit in $[b,c]$ 
