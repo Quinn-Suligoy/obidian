@@ -34,3 +34,6 @@
 	- Define an equivalence relation, $\sim$ on $\mathbb{N}\times \mathbb{N}$ such that $(m_{1},n_{1})\sim(m_{2},n_{2})\iff m_{1}+n_{2}=m_{2}+n_{1}$
 	- We define $\mathbb{Z}$ to be $\mathbb{N}\times \mathbb{N}/\sim$
 - Need for multiplicative inverse leads to construction of rational numbers. We use an equivalence relation to define integers as equivalence classes of $\mathbb{Z}\times \mathbb{Z}$
+	- Define an equivalence relation, $\sim$ on $\mathbb{Z}\times \mathbb{Z}$ such that
+		- $(a,b)\sim(c,d)\iff ad=bc$
+		- We define $\mathbb{Q}$ to be $\mathbb{Z}\times \mathbb{Z}/\sim$
