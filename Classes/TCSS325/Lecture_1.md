@@ -1,0 +1,26 @@
+# ep1
+- Problem: cheats on Harvard entrance exam
+	- Want to go to Harvard too badly
+		- wanting things too badly leads to bad actions
+	- Unnecessary shortcut
+		- what if it comes out later
+		- need to face it right now
+	- Don't need to turn the others in
+	- on one hand some arguments too utilitarian, others want to do what's right to be a better person
+		- ethics not about people, about society
+		- set of social bonds that can be injured by cheating
+			- not on you to figure that out
+	- as a society we come to conclusion that cheating is wrong
+		- if not willing to give honesty, can not expect to get honesty
+	- Can't pay back cheated exam
+		- even when not dealt same cards, have to play by same rules
+		- not clear who victim of cheating is
+# ep2
+- Child about to enter first grade, place where you live schools are bad, place where you work schools good. Boss lets you use address to send kid to good school
+	- every lie carries a social weight
+	- school boundaries are not an ethical problem
+		- duty as a parent trumps ethical dilemma
+	- two competing goods. good school vs good morals
+		- how far do you go?
+	- Not just a small lie
+	- No ethical obligation to follow immoral system
