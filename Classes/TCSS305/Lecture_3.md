@@ -13,5 +13,11 @@ public static final Logger LOGGER = Logger.getLogger(...)
 	- Static Space
 - Heap Space
 	- Actual objects store here
+		- every object has a memory address stored in heap
+		- every object field also stored in heap
 	- Continuous memory space working down, under stack
 	- Dynamic space
+- Garbage Collector
+	- runs every so often and finds objects in heap space with no references to them
+	- JVM determines when garbage collector runs
+		- not advised to force garbage collector to run
