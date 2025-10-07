@@ -1,35 +1,9 @@
 
-| $a$ | $b$ | $a\land b$ | $a\underline{◼}b$ | $(a\underline{◼}a)\underline{◼}b$ |     |
-| --- | --- | ---------- | ----------------- | --------------------------------- | --- |
-| T   | T   | T          | T                 | F                                 |     |
-| T   | F   | F          | T                 | T                                 |     |
-| F   | T   | F          | F                 | F                                 |     |
-| F   | F   | F          | T                 | T                                 |     |
+| $a$ | $b$ | $a\lor b$ | $a\underline{◼}b$ | $a\underline{◼}(a\underline{◼}b)$ |
+| --- | --- | --------- | ----------------- | --------------------------------- |
+| T   | T   | T         | T                 | T                                 |
+| T   | F   | T         | T                 | T                                 |
+| F   | T   | T         | F                 | T                                 |
+| F   | F   | F         | T                 | F                                 |
 
-$$
-\neg(\neg a\underline{◼}b)\equiv a\land b
-$$
-$$
-a\underline{◼}b\equiv b\implies a
-$$
-$$
-a\underline{◼}b\equiv \neg a\implies \neg b
-$$
-$$
-a\underline{◼}b\equiv\neg b\underline{◼}\neg a
-$$
-$$
-a\underline{◼}a\equiv a\land \neg a\equiv F
-$$
-$$
-(a\underline{◼}a)\underline{◼}a\equiv \neg a
-$$
-$$
-((a\underline{◼}a)\underline{◼}(\neg a\underline{◼}b))\equiv a\land b
-$$
-$$
-((a\underline{◼}a)\underline{◼}((a\underline{◼}a)))
-$$
-$$
-F\underline{◼}a\equiv \neg a
-$$
+We will define the squand operator "$a\underline{◼}b$" as equivalent to the proposition $a\lor \neg b$. From the proposition $a\lor b$ we can expand to $(a\lor b)\land T$ or $(a\lor b)\land(a\lor \neg a)$. Then using the distributive property we can pull the $a$ element out $a\lor(\neg a\land b)$. Then using DeMorgan's law we get $a\lor \neg(a\lor \neg b)$. Plugging in the squand identity we first get $a\lor \neg(a\underline{◼}b)$ and then $a\underline{◼}(a\underline{◼}b)$.

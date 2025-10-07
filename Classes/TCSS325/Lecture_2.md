@@ -1,0 +1,67 @@
+# Recap from Videos
+- Values
+	- Honesty, loyalty, fairness
+- Ethics - social norms a society agrees on
+	- Consequences
+	- Means to an end
+	- What if everyone did it
+	- Do what's right
+	- who is harmed and repairing harm (restorative justice)
+	- Different levels of obligation (to a society at large, to a company, to a friend, to a child)
+	- Rules of fairness in an unfair lottery of life
+# Chapter 1 Recap
+- Cyberethics
+	- Study of moral, legal, and social issues involving cybertechnology
+- Cyberethics Evolution Phases
+	- 1 1950s-1960s
+		- Stand alone thinking machines
+		- Scared of AI and privacy
+	- 2 1970s-1980s
+		- Minicomputers and PCs interconnected by internet
+		- concerns of intellectual property and piracy
+	- 3 1990s-present
+		- internet
+		- concerns of free speech, anonymity, legal jurisdiction, behavioral norms
+- Uniqueness
+	-  Ethical concerns for computing tech is not unique
+	- Two schools of thought
+		- Traditionalists argument
+		- Uniqueness proponents
+- Moor
+	- shifts to policy
+	- logical malleability
+	- policy vacuums
+	- conceptual muddles
+- Applied Ethics
+	- Professional
+		- Professional responsibility
+		- System Reliability
+		- Code of Conduct
+	- Sociological/Descriptive
+		- Impact of cybertechnology on government/financial/educational institutions
+		- Impact on socio-demographic groups
+- Descriptive vs Normative Approaches
+	- Descriptive
+		- Report/Describe what is the case
+	- Normative
+		- Prescribe what ought to be the case
+		- Non-moral
+			- evaluate matters involving standard such as art and sports
+		- Moral
+			- evaluate matters having to do with fairness and obligation
+- Embedded Technological Features Having Moral Implications
+	- Transparent Features
+		- morally controversial and easily recognized
+	- Opaque Features
+		- Known features
+			- Users aware of features but do not realize they have moral implications
+		- Unknown features
+			- Users not even aware of technological features that have moral implications
+- Multilevel Method
+	- Disclosive
+		- Disclose embedded features in technology that have moral importance
+	- Theoretical
+		- Test disclosed features against ethical theories
+	- Applications
+		- Apply standard or newly revised/formulated ethical theories to the issues
+- Comprehensive model
