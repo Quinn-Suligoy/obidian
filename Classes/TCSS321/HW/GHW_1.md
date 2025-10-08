@@ -1,3 +1,4 @@
+Quinn Suligoy, Nicholas Cortes, Eli Labrador, Tristen Rodriguez
 
 | $a$ | $b$ | $a\lor b$ | $a\underline{◼}b$ | $a\underline{◼}(a\underline{◼}b)$ |
 | --- | --- | --------- | ----------------- | --------------------------------- |
