@@ -43,7 +43,7 @@ private static final String FIVE_CHARACTERS = "ABCDE";
 Write testing methods
 ```java
 @Test
-public static void emptyStringLengthTest() {
+public void emptyStringLengthTest() {
 	assertAll("Tests for the empty string length() 0)",
 		() -> assertEquals(0,
 			EMPTY_LITERAL.length(),
@@ -55,7 +55,7 @@ public static void emptyStringLengthTest() {
 }
 
 @Test
-public static void stringWithFiveCharactersTest() {
+public void stringWithFiveCharactersTest() {
 	final String name = "Jadon";
 	assertAll("Tests for the empty string length() 5)",
 		() -> assertEquals(5,
@@ -68,7 +68,7 @@ public static void stringWithFiveCharactersTest() {
 }
 
 @Test
-public static void stringEmptyStringisEmptyTest() {
+public void stringEmptyStringisEmptyTest() {
 	assertAll("Tests for the empty string isEmpty() true",
 		() -> assertTrue(
 			EMPTY_LITERAL.isEmpty(),
@@ -80,15 +80,17 @@ public static void stringEmptyStringisEmptyTest() {
 }
 
 @Test
-public static void stringNonEmptyStringisEmptyTest() {
+public void stringNonEmptyStringisEmptyTest() {
 	final String one = "1";
 	assertAll("Tests for the non empty string isEmpty() false",
 		() -> assertFalse(
 			FIVE_CHARACTERS.isEmpty(),
-				"The five character string literal should return false on isEmpty()."),
+				"The five character string literal should return false on
+				 "isEmpty()."),
 		() -> assertFalse(
 			one.isEmpty(),
-				"The non empty string of size 1 should return false on isEmpty()."),
+				"The non empty string of size 1 should return false on
+				 "isEmpty()."),
 	);
 }
 ```
