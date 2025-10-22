@@ -1,0 +1,17 @@
+# Chapter 2 Re-cap
+- Ethics
+	- Study of Morality
+	- Morality is system of rules for guiding human conduct and principles for evaluating them.
+		- To prevent harm
+- Moral Systems
+	- Grounds for justifying moral principals: Religion, Philosophy, and Law
+	- Moral principles and rules: Principles of evaluation and rules of conduct
+	- 
+- Grounding principles
+- Discussion stoppers
+	- People disagree on solutions to moral issues
+	- Who am I to judge others
+	- Ethics is a simply private matter
+	- Morality is simply a matter for individual cultures to decide
+- Ethical theories: Utilitarianism and Deontology
+- 

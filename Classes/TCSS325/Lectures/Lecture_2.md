@@ -65,3 +65,8 @@
 	- Applications
 		- Apply standard or newly revised/formulated ethical theories to the issues
 - Comprehensive model
+	- Identify a practice involving cyber-technology/ feature that is controversial
+	- Analyze ethical issues by clarifying concepts and situating it in a context
+	- Deliberate on the ethical issue:
+		- Apply one or more ethical theories to the analysis of the moral issues
+		- Justify the position you reached by evaluating it against the rules for logical/critical thinking
