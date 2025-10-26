@@ -11,4 +11,4 @@ $5$:$p$ Simplification (2)
 
 $6$: $\therefore p\land r$ Conjunction (5,4) 
 # 2
-Let $a\in \overline{(A\cap \bar{B})}$ then $a\not\in A$ or $a\in B$, so $a\in(\bar{A}\cup B)$ 
+Let $a\in \overline{(A\cap \bar{B})}$ then $a\not\in(A\cap \bar{B})$. Meaning  $a\not\in A$ or $a\in B$, so $a\in(\bar{A}\cup B)$. Let $a\in(\bar{A}\cup B)$ then $a\not\in$ A or $a \in B$, then $a\not \in(A\cap \bar{B})$. so $a\in\overline{(A\cup \bar{B})}$.

@@ -64,6 +64,6 @@ Take the equation $x+y=2z$ we can construct a general $z$ value through algebra,
 ## a
 $(4,10)$ is a lower bound for the function and $4^2+10^2=116>115$ therefore there cannot be any values in the domain of the function that satisfy it. Making the statement false.
 ## b
-$y=20$ is an upper bound for the function. Now consider the statement $(-0.1>-1)\implies(-0.1+y^2\geq400)$, plugging in our upper bound we get $(-0.1>1)\implies (399.9\geq 400)$ this statement evaluates to false. Therefore the original statement is false as for $x=-0.1$ there exists no $y$.
+$y=20$ is an upper bound for the function. Now consider the statement $(-0.1>-1)\to(-0.1+y^2\geq400)$, plugging in our upper bound we get $(-0.1>1)\to (399.9\geq 400)$ this statement evaluates to false. Therefore the original statement is false as for $x=-0.1$ there exists no $y$.
 # 7
 4b was the most difficult for me as it involved needing two variables rather than one.
