@@ -14,4 +14,9 @@
 	- Ethics is a simply private matter
 	- Morality is simply a matter for individual cultures to decide
 - Ethical theories: Utilitarianism and Deontology
-- 
+- Moor's Ethical Framework of Just Consequentialism
+	- Step 1: Deliberate over various policies from an impartial point of view to determine whether they meet the criteria for being ethical policies.
+		- Does not cause any unnecessary harms to individual groups
+		- supports individual rights, fulfilling of duties, 
+	- Step 2: Select best policy from set of just policies arrived at the deliberation stage by ranking ethical policies in terms of benefits and justifiable harms. In doing this, be sure to:
+		- Weigh carefully between the good consequences and the bad consequences in the ethical policies

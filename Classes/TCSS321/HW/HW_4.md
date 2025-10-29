@@ -21,4 +21,7 @@ $\bar{A}\cap C=\{ 4,5 \}$ , which does not contain $4,5,6$, therefor $B$ is not 
 ## b
 $\bar{A}\cup C=\{ 3,4,5,6,7,8 \}$, which contains $4,5,6$, therefor $B$ is a subset
 # 5
-For this course 
+For this course I have not been using the textbook. In other math classes I have found it helpful to use the textbook to learn about topics before being presented in class.
+# Bonus
+Let $a\in \overline{X\cup Y}\cup Y$. Then $a\not \in X\cup Y$, or $a\in Y$. We can break this into the statement $\neg(a\in X\lor a\in Y)\lor a\in Y$. Then using DeMorgan's laws we can get the statement $(a\in \bar{X}\land a\in \bar{Y})\lor a\in Y$. Using the distributive property this becomes $(a\in \bar{X}\lor a\in Y)\land(a\in \bar{Y}\lor a\in Y)$. The second half of this statement is a tautology and can therefore be ignored, leaving us with the statement $a\in \bar{X}\lor a\in Y$, which can be transformed into $a\in \bar{X}\cup Y$. 
+Let $a\in \bar{X}\cup Y$, then $a\not \in X$ or $a\in Y$. Meaning $a\not \in X$ or $a \not \in Y$, unless $a\in Y$. Which translates to $a\not \in X\cup Y$ or $a\in Y$. Or $a\in\overline{X\cup Y}\cup Y$.
