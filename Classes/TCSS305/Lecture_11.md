@@ -30,3 +30,25 @@ class HelloButtonActionListener implements ActionListener {
 - Requirements for replacing
 	- Expecting an object that implements an interface
 	- Interface needs to have exactly one implementable method
+- Parameter list
+	- No Types
+	- No parameters
+		- `() ->`
+	- 1 parameter
+		- `(theParam) ->`
+		- `theParam ->`
+	- 2 or more parameter
+		- `(theP1, theP2, theP3) ->`
+- Arrow function
+- Statement list
+	- Try to be one statement
+	- One statement
+		- `() -> statement`
+	- 2 or more statements
+		- `() -> {statement; statement2;}`
+- Returning values
+	- One statement
+		- `() -> 2+3`
+	- 2 or more statements
+		- `() -> {statement; statement2; return 2+3;}`
+- 
