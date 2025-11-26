@@ -1,8 +1,34 @@
 # Layout Components
 ## Layout Manager
-- FlowLayout
+- Flow Layout
 	- Default for JPanels
 	- Respects Component's Size
 		- Ex) Buttons will always be big enough to hold text
 	- Components show up in order added *flowing* horizontal
 		- If not enough horizontal room components will flow down
+	- No limit to components
+- Border Layout
+	- can only have up to 5 components
+	- components added to
+		- North
+		- South
+			- N/S stretches horizontally
+		- West			
+		- East
+			- W/E stretches vertically
+		- Center
+			- Stretches horizontally and vertically
+- Grid Layout
+	- Defined with rows and columns
+		- Components added left to right top to bottom
+		- Extra components added to new column, or row??
+	- Components stretch to the size of the largest component
+		- individually width and height
+## Menu Bar
+ - JMenuBar
+	 - One and only one per frame
+	 - JMenus added to JMenuBar
+		 - JMenuItems added to JMenu
+	- Menu items include 
+		- JRadioButtonMenuItem
+		- JCheckBoxMenuItem
